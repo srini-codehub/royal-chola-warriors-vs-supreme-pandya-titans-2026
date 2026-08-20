@@ -11,7 +11,6 @@ A viewer-only badminton tournament dashboard for **Royal Chola Warriors vs Supre
 ├── assets/
 │   └── images/
 │       ├── royal-chola-warriors-logo.png
-│       ├── supreme-pandya-titans-logo.png
 │       └── supreme-pandya-titans-shark-shield.webp
 ├── README.md
 ├── LICENSE.txt
